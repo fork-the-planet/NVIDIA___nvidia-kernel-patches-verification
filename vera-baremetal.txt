@@ -78,6 +78,7 @@ ea3db45ae476 | cpufreq: cppc: Update MIN_PERF/MAX_PERF in target callbacks
 56eb0c0ed345 | ACPI: CPPC: Fix remaining for_each_possible_cpu() to use online CPUs
 16d021c878dc | PCI/NPEM: Set LED_HW_PLUGGABLE for hotplug-capable ports
 a55f80233f38 | fwctl: Fix class init ordering to avoid NULL pointer dereference on device removal
+702c1d56c717 | PCI/CXL: Hide SBR from reset_methods if masked by CXL
 
 
 
