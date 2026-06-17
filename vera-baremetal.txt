@@ -64,6 +64,7 @@ ea3db45ae476 | cpufreq: cppc: Update MIN_PERF/MAX_PERF in target callbacks
 # Bare Metal Support: Critical Fixes
 ####################################
 
+ec7216f92e4e | arm64: errata: Mitigate TLBI errata on NVIDIA Olympus CPU
 
 
 # Bare Metal Support: Fixes

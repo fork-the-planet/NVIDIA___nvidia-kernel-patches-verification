@@ -50,7 +50,12 @@ a5951389e58d | arm64: errata: Add newer ARM cores to the spectre_bhb_loop_affect
 fee4d171451c | arm64: errata: Add missing sentinels to Spectre-BHB MIDR arrays
 d42e6c20de61 | arm64/entry: Mask DAIF in cpu_switch_to(), call_on_irq_stack()
 97c5550b7631 | arm64: contpte: fix set_access_flags() no-op check for SMMU/ATS faults
+a8f78680ee6b | arm64: tlb: Optimize ARM64_WORKAROUND_REPEAT_TLBI
+bfd9c931d19a | arm64: tlb: Allow XZR argument to TLBI ops
 e5f72cb9cea5 | PCI: Validate window resource type in pbus_select_window_for_type()
+60349e64a6c6 | arm64: cputype: Add C1-Ultra definitions
+d28413bfc5a2 | arm64: cputype: Add C1-Premium definitions
+cfd391e74134 | arm64: errata: Mitigate TLBI errata on various Arm CPUs
 
 
 
