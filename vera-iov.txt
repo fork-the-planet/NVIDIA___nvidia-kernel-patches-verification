@@ -1,0 +1,19 @@
+# NVIDIA Vera I/O Virtualization (IOV) Kernel Patches
+# Format: COMMIT_SHA | TITLE
+#
+# This list is organized by the same groupings found in
+# the NVIDIA Vera I/O Virtualization Software Patches
+# and Configurations Guide.
+#
+# https://docs.nvidia.com/dccpu/patches-config-guide/index.html
+#
+
+
+
+# Host Kernel I/O Virtualization: GPU Passthrough
+##################################################
+
+682ecb14e838 | vfio/nvgrace-gpu: Add Blackwell-Next GPU readiness check via CXL DVSEC
+
+
+# End of list

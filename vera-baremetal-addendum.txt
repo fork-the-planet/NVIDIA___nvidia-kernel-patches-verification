@@ -12,11 +12,7 @@
 
 # Bare Metal Support: Enablement
 ################################
-579bc508cde3 | NVIDIA: VR: SAUCE: soc/tegra: misc: Use SMCCC to get chipid
 021306fb15e5 | NVIDIA: VR: SAUCE: soc/tegra: pmc: Add PMC support for Tegra410
-9fa7533ed81f | NVIDIA: VR: SAUCE: PCI: Allow ATS to be always on for CXL.cache capable devices
-ef6b3ff6bdde | NVIDIA: VR: SAUCE: PCI: Allow ATS to be always on for non-CXL NVIDIA GPUs
-8ea14a368a18 | NVIDIA: VR: SAUCE: iommu/arm-smmu-v3: Allow ATS to be always on
 a02b6067b1a3 | NVIDIA: VR: SAUCE: firmware: smccc: Add support for Live Firmware Activation (LFA)
 da6c9c5f96de | NVIDIA: VR: SAUCE: firmware: smccc: lfa: Move image rescanning
 3787f08d8bbd | NVIDIA: VR: SAUCE: firmware: smccc: lfa: Add timeout and trigger watchdog
